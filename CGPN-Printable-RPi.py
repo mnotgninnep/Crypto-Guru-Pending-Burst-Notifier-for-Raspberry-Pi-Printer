@@ -6,7 +6,6 @@
 # https://github.com/adafruit/Python-Thermal-Printer
 # Also based on code from Thothloki's CryptoGuruPendingNotifier
 # https://github.com/thothloki/CryptoGuruPendingNotifier
-# Donate BURST Coin to him here: BURST-QCL8-NXGJ-L5WD-35KXA
 # Donate BURST Coin to me here:  BURST-XYKV-9LAA-KQ4Z-FWGT3
 
 # Script Revisions:
