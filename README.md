@@ -6,7 +6,7 @@ This version runs on a Raspberry Pi and prints daily and on-demand summaries of 
 
 Please note, this is only here to share the code. I'm not going to provide any support or bug fixes unless it's something that's bothering me personally.
 
-If you find value in this code/app, please consider donating to us both (addresses below)
+If you find value in this code/app, please consider donating to me (address below)
 
 This was written in Python 3.
 
@@ -37,6 +37,5 @@ dFMins       = 30    # Mins past the hour to run daily
 
 A single tap of the button will print out a summary. Hold it down for 2+ seconds and the Raspberry Pi will shutdown.
 
-If you like this, please donate us some BURST!<br>
-mikeyp's BURST: BURST-XYKV-9LAA-KQ4Z-FWGT3<br>
-Thothloki's BURST: BURST-QCL8-NXGJ-L5WD-35KXA
+If you like this, please donate some BURST to me!<br>
+BURST: BURST-XYKV-9LAA-KQ4Z-FWGT3
